@@ -1,0 +1,110 @@
+[
+  {
+    "player_name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "playing_type": "All-Rounder",
+    "rating": 9.5,
+    "hand": "Left-hand bat, Slow left-arm orthodox",
+    "price": "৳6,000,000",
+    "picture_url": "https://i.ibb.co.com/cXJWvw0H/images.webp"
+  },
+  {
+    "player_name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "playing_type": "Batter",
+    "rating": 9.0,
+    "hand": "Left-hand bat",
+    "price": "৳6,000,000",
+    "picture_url": "https://i.ibb.co.com/Y7j9LdJt/licensed-image.webp"
+  },
+  {
+    "player_name": "Taskin Ahmed",
+    "country": "Bangladesh",
+    "playing_type": "Bowler",
+    "rating": 9.2,
+    "hand": "Right-arm fast",
+    "price": "৳6,000,000",
+    "picture_url": "https://i.ibb.co.com/rf2TJwnX/licensed-image.webp"
+  },
+  {
+    "player_name": "Litton Das",
+    "country": "Bangladesh",
+    "playing_type": "Wicketkeeper-Batter",
+    "rating": 8.7,
+    "hand": "Right-hand bat",
+    "price": "৳6,000,000",
+    "picture_url": "https://i.ibb.co.com/fYPcPyJN/images.webp"
+  },
+  {
+    "player_name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "playing_type": "Wicketkeeper-Batter",
+    "rating": 8.8,
+    "hand": "Right-hand bat",
+    "price": "৳6,000,000",
+    "picture_url": "https://i.ibb.co.com/vxqr23Ns/licensed-image.webp"
+  },
+  {
+    "player_name": "Towhid Hridoy",
+    "country": "Bangladesh",
+    "playing_type": "Batter",
+    "rating": 8.9,
+    "hand": "Right-hand bat",
+    "price": "৳6,000,000",
+    "picture_url": "https://i.ibb.co.com/rKXgnH1v/images.webp"
+  },
+  {
+    "player_name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "playing_type": "Bowler",
+    "rating": 9.1,
+    "hand": "Left-arm fast-medium",
+    "price": "৳6,000,000",
+    "picture_url": "https://i.ibb.co.com/Gv1FCsPJ/images.webp"
+  },
+  {
+    "player_name": "Mehidy Hasan Miraz",
+    "country": "Bangladesh",
+    "playing_type": "All-Rounder",
+    "rating": 9.0,
+    "hand": "Right-hand bat, Right-arm offbreak",
+    "price": "৳6,000,000",
+    "picture_url": "https://i.ibb.co.com/hRxYGmHL/licensed-image.webp"
+  },
+  {
+    "player_name": "Shoriful Islam",
+    "country": "Bangladesh",
+    "playing_type": "Bowler",
+    "rating": 8.8,
+    "hand": "Left-arm medium-fast",
+    "price": "৳6,000,000",
+    "picture_url": "https://i.ibb.co.com/1tFHypmf/images.webp"
+  },
+  {
+    "player_name": "Alex Hales",
+    "country": "England",
+    "playing_type": "Batter",
+    "rating": 8.6,
+    "hand": "Right-hand bat",
+    "price": "$70,000",
+    "picture_url": "https://i.ibb.co.com/7xv9Ln2X/images.webp"
+  },
+  {
+    "player_name": "Moeen Ali",
+    "country": "England",
+    "playing_type": "All-Rounder",
+    "rating": 8.8,
+    "hand": "Left-hand bat, Right-arm offbreak",
+    "price": "$70,000",
+    "picture_url": "https://i.ibb.co.com/LzjhTrfH/images.webp"
+  },
+  {
+    "player_name": "Nurul Hasan Sohan",
+    "country": "Bangladesh",
+    "playing_type": "Wicketkeeper-Batter",
+    "rating": 8.3,
+    "hand": "Right-hand bat",
+    "price": "৳4,000,000",
+    "picture_url": "https://i.ibb.co.com/NdYWV39Y/licensed-image.webp"
+  }
+]
