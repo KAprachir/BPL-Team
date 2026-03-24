@@ -1,20 +1,6 @@
 import { Flag, User } from "lucide-react";
 import React, { use } from "react";
 
-// country
-
-// hand
-
-// picture_url
-
-// player_name
-
-// playing_type
-
-// price
-
-// rating
-
 const Available = ({ playerPromise }) => {
   const playerData = use(playerPromise);
   console.log(playerData);
