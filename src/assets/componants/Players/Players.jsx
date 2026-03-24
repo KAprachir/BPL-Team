@@ -7,7 +7,11 @@ const Players = ({ playerPromise }) => {
   return (
     <div className="w-7xl mx-auto">
       <div className="flex items-center justify-between gap-4">
-        <h1 className="text-3xl font-bold">Available</h1>
+        {activeTab === "available" ? (
+          <h1 className="text-3xl font-bold">Available</h1>
+        ) : (
+          <h1 className="text-3xl font-bold">Selected Player (4/6)</h1>
+        )}
         <div>
           <button
             onClick={() => setActiveTab("available")}
