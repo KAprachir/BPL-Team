@@ -1,8 +1,28 @@
 import React, { useState } from "react";
 import { Flag, User } from "lucide-react";
 
-const PlayerCard = ({ player, index }) => {
+const PlayerCard = ({
+  player,
+  index,
+  coin,
+  setCoin,
+  selectedPlayer,
+  setSelectedPlayer,
+}) => {
   const [isSelected, setIsSelected] = useState(false);
+
+  const choosePlayerHandle = () => {
+    const newCoin = coin - player.price;
+    if (newCoin >= 0) {
+      setCoin(coin - player.price);
+    } else {
+      alert(`Not Enough Coin to Select ${player.player_name}`);
+      return;
+    }
+    setIsSelected(true);
+    alert(`${player.player_name} is Selected`);
+    setSelectedPlayer([...selectedPlayer, player]);
+  };
 
   return (
     <div key={index} className="card bg-base-100 shadow-sm p-4">
@@ -40,8 +60,9 @@ const PlayerCard = ({ player, index }) => {
         <div className="card-actions justify-between items-center">
           <h3>Price : {player.price} </h3>
           <button
-            onClick={() => setIsSelected(true)}
+            onClick={() => choosePlayerHandle()}
             className="btn btn-outline"
+            disabled={isSelected}
           >
             {isSelected ? "Selected" : "Choose Player"}
           </button>

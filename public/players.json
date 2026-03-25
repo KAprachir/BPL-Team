@@ -5,7 +5,7 @@
     "playing_type": "All-Rounder",
     "rating": 9.5,
     "hand": "Left-hand bat, Slow left-arm orthodox",
-    "price": "৳6,000,000",
+    "price": "10000",
     "picture_url": "https://i.ibb.co.com/cXJWvw0H/images.webp"
   },
   {
@@ -14,7 +14,7 @@
     "playing_type": "Batter",
     "rating": 9.0,
     "hand": "Left-hand bat",
-    "price": "৳6,000,000",
+    "price": "9000",
     "picture_url": "https://i.ibb.co.com/Y7j9LdJt/licensed-image.webp"
   },
   {
@@ -23,7 +23,7 @@
     "playing_type": "Bowler",
     "rating": 9.2,
     "hand": "Right-arm fast",
-    "price": "৳6,000,000",
+    "price": "4000",
     "picture_url": "https://i.ibb.co.com/rf2TJwnX/licensed-image.webp"
   },
   {
@@ -32,7 +32,7 @@
     "playing_type": "Wicketkeeper-Batter",
     "rating": 8.7,
     "hand": "Right-hand bat",
-    "price": "৳6,000,000",
+    "price": "5000",
     "picture_url": "https://i.ibb.co.com/fYPcPyJN/images.webp"
   },
   {
@@ -41,7 +41,7 @@
     "playing_type": "Wicketkeeper-Batter",
     "rating": 8.8,
     "hand": "Right-hand bat",
-    "price": "৳6,000,000",
+    "price": "7000",
     "picture_url": "https://i.ibb.co.com/vxqr23Ns/licensed-image.webp"
   },
   {
@@ -50,7 +50,7 @@
     "playing_type": "Batter",
     "rating": 8.9,
     "hand": "Right-hand bat",
-    "price": "৳6,000,000",
+    "price": "4500",
     "picture_url": "https://i.ibb.co.com/rKXgnH1v/images.webp"
   },
   {
@@ -59,7 +59,7 @@
     "playing_type": "Bowler",
     "rating": 9.1,
     "hand": "Left-arm fast-medium",
-    "price": "৳6,000,000",
+    "price": "11000",
     "picture_url": "https://i.ibb.co.com/Gv1FCsPJ/images.webp"
   },
   {
@@ -68,7 +68,7 @@
     "playing_type": "All-Rounder",
     "rating": 9.0,
     "hand": "Right-hand bat, Right-arm offbreak",
-    "price": "৳6,000,000",
+    "price": "5000",
     "picture_url": "https://i.ibb.co.com/hRxYGmHL/licensed-image.webp"
   },
   {
@@ -77,7 +77,7 @@
     "playing_type": "Bowler",
     "rating": 8.8,
     "hand": "Left-arm medium-fast",
-    "price": "৳6,000,000",
+    "price": "4500",
     "picture_url": "https://i.ibb.co.com/1tFHypmf/images.webp"
   },
   {
@@ -86,7 +86,7 @@
     "playing_type": "Batter",
     "rating": 8.6,
     "hand": "Right-hand bat",
-    "price": "$70,000",
+    "price": "15000",
     "picture_url": "https://i.ibb.co.com/7xv9Ln2X/images.webp"
   },
   {
@@ -95,7 +95,7 @@
     "playing_type": "All-Rounder",
     "rating": 8.8,
     "hand": "Left-hand bat, Right-arm offbreak",
-    "price": "$70,000",
+    "price": "18000",
     "picture_url": "https://i.ibb.co.com/LzjhTrfH/images.webp"
   },
   {
@@ -104,7 +104,7 @@
     "playing_type": "Wicketkeeper-Batter",
     "rating": 8.3,
     "hand": "Right-hand bat",
-    "price": "৳4,000,000",
+    "price": "6500",
     "picture_url": "https://i.ibb.co.com/NdYWV39Y/licensed-image.webp"
   }
 ]

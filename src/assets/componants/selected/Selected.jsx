@@ -1,6 +1,7 @@
 import React from "react";
 
-const Selected = () => {
+const Selected = (selectedPlayer) => {
+  console.log(selectedPlayer);
   return (
     <div>
       <h1>Selected</h1>
