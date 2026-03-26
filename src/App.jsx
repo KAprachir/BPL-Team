@@ -5,6 +5,8 @@ import Navbar from "./assets/componants/navbar/Navbar";
 import Players from "./assets/componants/Players/Players";
 import { ToastContainer } from "react-toastify";
 import Hero from "./assets/componants/Hero/Hero";
+import Footer from "./assets/componants/Footer/Footer";
+import PreFooter from "./assets/componants/Footer/PreFooter";
 
 const fetchPlayer = async () => {
   const res = await fetch("players.json");
@@ -27,6 +29,10 @@ function App() {
           setCoin={setCoin}
         ></Players>
       </Suspense>
+
+      <PreFooter></PreFooter>
+
+      <Footer></Footer>
 
       <ToastContainer />
     </>

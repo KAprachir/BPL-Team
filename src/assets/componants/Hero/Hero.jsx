@@ -8,7 +8,6 @@ const Hero = () => {
         className="hero h-110 w-7xl mx-auto overflow-hidden rounded-3xl my-5"
         style={{
           backgroundImage: `url(${bgImg})`,
-          borderRadius: "20px",
         }}
       >
         <div className="hero-overlay"></div>
