@@ -4,6 +4,7 @@ import Available from "./assets/componants/available/Available";
 import Navbar from "./assets/componants/navbar/Navbar";
 import Players from "./assets/componants/Players/Players";
 import { ToastContainer } from "react-toastify";
+import Hero from "./assets/componants/Hero/Hero";
 
 const fetchPlayer = async () => {
   const res = await fetch("players.json");
@@ -16,6 +17,7 @@ function App() {
   return (
     <>
       <Navbar coin={coin}></Navbar>
+      <Hero></Hero>
       <Suspense
         fallback={<span className="loading loading-spinner loading-xl "></span>}
       >
